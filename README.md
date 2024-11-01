@@ -36,7 +36,7 @@ I'm Arthur, with over two years of experience in development and project work. M
 - 💻 Full Stack Developer 
 
 ## Contacts (Contatos)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurcarneiro1/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurcarneiros01/)
 </div>
 <br>
 
