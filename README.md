@@ -11,7 +11,13 @@
 
 <div>
 <br>
-I'm Arthur, with over two years of experience in development and project work. My goal is to build a solid career in technology, constantly striving for growth and improvement. I am committed to adding significant value to any organization I work with, contributing through innovation and impactful results.
+At the age of 12, creating my own Pokémon hack-ROMs led me to where I am today as a C# | .NET developer, with one year of hands-on experience in problem-solving and building efficient solutions. Always striving for learning and growth in the tech field.
+<br>
+    <br>
+    <br>
+    <br>
+K.A.I.Z.E.N -
+means: "continuous improvement."
 <br>
 <br>
 <br>
