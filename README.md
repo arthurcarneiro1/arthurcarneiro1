@@ -66,9 +66,9 @@ means: "continuous improvement."
 <div align="center">
     <p align="center">"There is nothing to fear."</p>
     <img  width="300" src="https://github.com/ArthurGourmet/ArthurGourmet/assets/123193887/6b4921c9-59bf-4444-b022-834dd0079350">
-<br><p align="centre"><b>Contagem de visitantes</b></p>  
+<br>
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{arthurcarneiro1}/count.svg" /></p> 
+
 <br>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=038C7F&height=120&section=footer"/>
