@@ -26,7 +26,6 @@ At 12 years old, creating my own Pokémon hack-ROMs set me on the path to where 
 <br>
 <br>
 <br>
-<h2 align="center">Skills</h2>
 
 <hr>
 <!-- Backend -->
