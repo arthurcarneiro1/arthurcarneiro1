@@ -72,7 +72,7 @@ At 12 years old, creating my own Pokémon hack-ROMs set me on the path to where 
 <br>
 <hr>
 <!-- Ferramentas -->
-<h3 align="center">Ferramentas</h3>
+<h3 align="center">Ferramentas (Tools)</h3>
 <p align="center">
   <a href="https://code.visualstudio.com/docs" target="_blank">
     <img src="https://devicon-website.vercel.app/api/vscode/original.svg" width="36" height="36" alt="VSCode"/>
@@ -90,7 +90,7 @@ At 12 years old, creating my own Pokémon hack-ROMs set me on the path to where 
 <br>
 <hr>
 <!-- Outros -->
-<h3 align="center">Outros</h3>
+<h3 align="center">Outros (Others)</h3>
 <p align="center">
   <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
     <img src="https://devicon-website.vercel.app/api/csharp/original.svg" width="36" height="36" alt="C#"/>
@@ -106,11 +106,26 @@ At 12 years old, creating my own Pokémon hack-ROMs set me on the path to where 
   </a>
 </p>
 <br>
+<h2 align="center">Social</h2>
+<br>
+<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/carneirodev2002/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="38" height="38" style="margin: 10px;" />
+    </picture>
+  </a>
 
-## Socials
-
-<p align="left"> <a href="https://www.linkedin.com/in/carneirodev2002/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@devarthur777" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
-
+  <a href="https://www.youtube.com/@devarthur777" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="38" height="38" style="margin: 10px;" />
+    </picture>
+  </a>
+</p>
 
 
 
