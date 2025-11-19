@@ -1,6 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=038C7F&height=120&section=header"/>
-
-#            Hello, I am Arthur(Ola eu sou Arthur)🚀
+<img width="100%" height="310" alt="Image" src="https://github.com/user-attachments/assets/28eaa092-f80f-45e5-b1f6-6b4518811a59" />
 
 <img align="right" width="400"  src="https://github.com/ArthurGourmet/ArthurGourmet/assets/123193887/659e45c1-e71d-4f83-a900-618814409379">
 <br>
@@ -10,32 +9,107 @@
 
 
 <div>
+    <br>
 <br>
-At the age of 12, creating my own Pokémon hack-ROMs led me to where I am today as a C# | .NET developer, with one year of hands-on experience in problem-solving and building efficient solutions. Always striving for learning and growth in the tech field.
+🇺🇸
+<br>
+At 12 years old, creating my own Pokémon hack-ROMs set me on the path to where I am today — a Java developer working with Spring, SQL, and AI. I’ve got a year of hands-on experience solving problems and building efficient solutions, and I'm always looking to learn and grow in the tech world.
 <br>
     <br>
+    🇧🇷
     <br>
+    Aos 12 anos, criar minhas próprias hack-ROMs de Pokémon me levou ao ponto onde estou hoje como desenvolvedor Java com foco em Spring, SQL e Inteligência Artificial, com um ano de experiência prática em resolução de problemas e construção de soluções eficientes. Sempre buscando aprendizado e crescimento na área de tecnologia.
     <br>
-K.A.I.Z.E.N -
-means: "continuous improvement."
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-    
-## Skills
+<br>
+<br>
+<br>
+<br>
+<br>
+<h2 align="center">Skills</h2>
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a>
+
+<!-- Backend -->
+<h3 align="center">Backend</h3>
+<p align="center">
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://devicon-website.vercel.app/api/java/original.svg" width="36" height="36" alt="Java"/>
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://devicon-website.vercel.app/api/spring/original.svg" width="36" height="36" alt="Spring Boot"/>
+  </a>
+  <a href="https://www.mongodb.com/docs/" target="_blank">
+    <img src="https://devicon-website.vercel.app/api/mongodb/original.svg" width="36" height="36" alt="MongoDB"/>
+  </a>
+  <a href="https://dev.mysql.com/doc/" target="_blank">
+    <img src="https://devicon-website.vercel.app/api/mysql/original.svg" width="36" height="36" alt="MySQL"/>
+  </a>
 </p>
+<br>
+
+<!-- Frontend -->
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://devicon-website.vercel.app/api/javascript/original.svg" width="36" height="36" alt="JavaScript"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://devicon-website.vercel.app/api/html5/original.svg" width="36" height="36" alt="HTML5"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://devicon-website.vercel.app/api/css3/original.svg" width="36" height="36" alt="CSS3"/>
+  </a>
+  <a href="https://tailwindcss.com/docs" target="_blank">
+    <img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" width="36" height="36" alt="TailwindCSS"/>
+  </a>
+  <a href="https://getbootstrap.com/docs/" target="_blank">
+    <img src="https://devicon-website.vercel.app/api/bootstrap/original.svg" width="36" height="36" alt="Bootstrap"/>
+  </a>
+  <a href="https://react.dev/learn" target="_blank">
+    <img src="https://devicon-website.vercel.app/api/react/original.svg" width="36" height="36" alt="React"/>
+  </a>
+</p>
+<br>
+
+<!-- Ferramentas -->
+<h3 align="center">Ferramentas</h3>
+<p align="center">
+  <a href="https://code.visualstudio.com/docs" target="_blank">
+    <img src="https://devicon-website.vercel.app/api/vscode/original.svg" width="36" height="36" alt="VSCode"/>
+  </a>
+  <a href="https://www.jetbrains.com/help/idea/discover-intellij-idea.html" target="_blank">
+    <img src="https://devicon-website.vercel.app/api/intellij/original.svg" width="36" height="36" alt="IntelliJ IDEA"/>
+  </a>
+  <a href="https://docs.docker.com/" target="_blank">
+    <img src="https://devicon-website.vercel.app/api/docker/plain.svg" width="36" height="36" alt="Docker"/>
+  </a>
+  <a href="https://www.kernel.org/doc/html/latest/" target="_blank">
+    <img src="https://devicon-website.vercel.app/api/linux/original.svg" width="36" height="36" alt="Linux"/>
+  </a>
+</p>
+<br>
+
+<!-- Outros -->
+<h3 align="center">Outros</h3>
+<p align="center">
+  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
+    <img src="https://devicon-website.vercel.app/api/csharp/original.svg" width="36" height="36" alt="C#"/>
+  </a>
+  <a href="https://docs.unity3d.com/Manual/index.html" target="_blank">
+    <img src="https://devicon-website.vercel.app/api/unity/original.svg" width="36" height="36" alt="Unity"/>
+  </a>
+  <a href="https://wordpress.org/documentation/" target="_blank">
+    <img src="https://devicon-website.vercel.app/api/wordpress/original.svg" width="36" height="36" alt="WordPress"/>
+  </a>
+  <a href="https://woocommerce.com/document/" target="_blank">
+    <img src="https://devicon-website.vercel.app/api/woocommerce/original.svg" width="36" height="36" alt="WooCommerce"/>
+  </a>
+</p>
+<br>
 
 ## Socials
 
-<p align="left"> <a href="https://www.linkedin.com/in/carneirodev2002/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@Carneirodevv" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/carneirodev2002/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="[https://www.youtube.com/@Carneirodevv](https://www.youtube.com/@devarthur777)" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
 
 
 
@@ -64,7 +138,8 @@ means: "continuous improvement."
  </div>
 
 <div align="center">
-    <p align="center">"There is nothing to fear."</p>
+    <p align="center">K.A.I.Z.E.N -
+means: "continuous improvement."</p>
     <img  width="300" src="https://github.com/ArthurGourmet/ArthurGourmet/assets/123193887/6b4921c9-59bf-4444-b022-834dd0079350">
 <br>
 
