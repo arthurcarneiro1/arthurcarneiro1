@@ -27,107 +27,84 @@ At 12 years old, creating my own Pokémon hack-ROMs set me on the path to where 
 <br>
 
 <hr>
-<!-- Backend -->
-<h3 align="center">Backend</h3>
-<p align="center">
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://devicon-website.vercel.app/api/java/original.svg" width="36" height="36" alt="Java"/>
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank">
-    <img src="https://devicon-website.vercel.app/api/spring/original.svg" width="36" height="36" alt="Spring Boot"/>
-  </a>
-  <a href="https://www.mongodb.com/docs/" target="_blank">
-    <img src="https://devicon-website.vercel.app/api/mongodb/original.svg" width="36" height="36" alt="MongoDB"/>
-  </a>
-  <a href="https://dev.mysql.com/doc/" target="_blank">
-    <img src="https://devicon-website.vercel.app/api/mysql/original.svg" width="36" height="36" alt="MySQL"/>
-  </a>
-</p>
-<br>
-<hr>
-<!-- Frontend -->
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://devicon-website.vercel.app/api/javascript/original.svg" width="36" height="36" alt="JavaScript"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://devicon-website.vercel.app/api/html5/original.svg" width="36" height="36" alt="HTML5"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://devicon-website.vercel.app/api/css3/original.svg" width="36" height="36" alt="CSS3"/>
-  </a>
-  <a href="https://tailwindcss.com/docs" target="_blank">
-    <img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" width="36" height="36" alt="TailwindCSS"/>
-  </a>
-  <a href="https://getbootstrap.com/docs/" target="_blank">
-    <img src="https://devicon-website.vercel.app/api/bootstrap/original.svg" width="36" height="36" alt="Bootstrap"/>
-  </a>
-  <a href="https://react.dev/learn" target="_blank">
-    <img src="https://devicon-website.vercel.app/api/react/original.svg" width="36" height="36" alt="React"/>
-  </a>
-</p>
-<br>
-<hr>
-<!-- Ferramentas -->
-<h3 align="center">Ferramentas (Tools)</h3>
-<p align="center">
-  <a href="https://code.visualstudio.com/docs" target="_blank">
-    <img src="https://devicon-website.vercel.app/api/vscode/original.svg" width="36" height="36" alt="VSCode"/>
-  </a>
-  <a href="https://www.jetbrains.com/help/idea/discover-intellij-idea.html" target="_blank">
-    <img src="https://devicon-website.vercel.app/api/intellij/original.svg" width="36" height="36" alt="IntelliJ IDEA"/>
-  </a>
-  <a href="https://docs.docker.com/" target="_blank">
-    <img src="https://devicon-website.vercel.app/api/docker/plain.svg" width="36" height="36" alt="Docker"/>
-  </a>
-  <a href="https://www.kernel.org/doc/html/latest/" target="_blank">
-    <img src="https://devicon-website.vercel.app/api/linux/original.svg" width="36" height="36" alt="Linux"/>
-  </a>
-</p>
-<br>
-<hr>
-<!-- Outros -->
-<h3 align="center">Outros (Others)</h3>
-<p align="center">
-  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
-    <img src="https://devicon-website.vercel.app/api/csharp/original.svg" width="36" height="36" alt="C#"/>
-  </a>
-  <a href="https://docs.unity3d.com/Manual/index.html" target="_blank">
-    <img src="https://devicon-website.vercel.app/api/unity/original.svg" width="36" height="36" alt="Unity"/>
-  </a>
-  <a href="https://wordpress.org/documentation/" target="_blank">
-    <img src="https://devicon-website.vercel.app/api/wordpress/original.svg" width="36" height="36" alt="WordPress"/>
-  </a>
-  <a href="https://woocommerce.com/document/" target="_blank">
-    <img src="https://devicon-website.vercel.app/api/woocommerce/original.svg" width="36" height="36" alt="WooCommerce"/>
-  </a>
-</p>
-<br>
-<h2 align="center">Social</h2>
-<br>
-<br>
-<p align="center">
-  <a href="https://www.linkedin.com/in/carneirodev2002/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="38" height="38" style="margin: 10px;" />
-    </picture>
-  </a>
+<div align="center">
 
-  <a href="https://www.youtube.com/@devarthur777" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="38" height="38" style="margin: 10px;" />
-    </picture>
-  </a>
-</p>
+<table style="background-color: white; border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr>
+      <th width="10%">💻 Back-end</th>
+      <th width="10%">🎨 Front-end</th>
+      <th width="10%">📚 Frameworks</th>
+      <th width="10%">🧪 Testes Unitários</th>
+      <th width="10%">🧰 IDE's</th>
+      <th width="10%">🗄️ Banco de Dados</th>
+      <th width="10%">☁️ DevOps</th>
+      <th width="10%">⚙️ Build Tools</th>
+      <th width="10%">🧪 Outras Tecnologias</th>
+      <th width="10%">🎯 Em Aprendizado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python logo" /><br>Python
+        <br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java logo" /><br>Java
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5 logo" /><br>HTML5
+        <br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3 logo" /><br>CSS3
+        <br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript logo" /><br>JavaScript
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" alt="Spring logo" /><br>Spring Boot
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="JUnit logo" /><br>JUnit
+        <br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Mockito logo" /><br>Mockito
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VSCode logo" /><br>VSCode
+        <br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50" height="50" alt="PyCharm logo" /><br>PyCharm
+        <br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50" alt="IntelliJ IDEA logo" /><br>IntelliJ IDEA
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL logo" /><br>PostgreSQL
+      </td>
+      <td align="center">
+        <img src="./assets/logos/AWS.png" width="50" height="50" alt="AWS logo" /><br>AWS
+        <br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git logo" /><br>Git
+        <br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub logo" /><br>GitHub
+      </td>
+      <td align="center">
+        <img src="./assets/logos/Gradle.png" width="50" height="50" alt="Gradle logo" /><br>Gradle
+        <br><br>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" width="50" height="50" alt="Maven logo" /><br>Maven
+      </td>
+      <td align="center">
+        <img src="./assets/logos/chatgpt.png" width="50" height="50" alt="ChatGPT logo" /><br>ChatGPT
+        <br><br>
+        <img src="./assets/logos/Claude.png" width="50" height="50" alt="Claude logo" /><br>Claude
+        <br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50" alt="Windows logo" /><br>Windows
+      </td>
+      <td align="center">
+        <img src="./assets/logos/docker.png" width="50" height="50" alt="Docker logo" /><br>Docker
+        <br><br>
+        <img src="./assets/logos/n8n.png" width="50" height="50" alt="n8n logo" /><br>n8n
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-
-
-
+</div>
 <br>
 <br>
 
