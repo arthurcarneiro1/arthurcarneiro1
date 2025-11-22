@@ -8,8 +8,6 @@
 
 
 <div>
-    <br>
-<br>
 🇺🇸
 <br>
 I'm a Java developer with a focus on Spring and SQL, with one year of hands-on experience building efficient solutions and solving complex problems. Over time, I've been sharpening my back-end development skills, system architecture knowledge, and best coding practices, always paying attention to code quality and application performance. I'm passionate about continuous learning and always looking for opportunities to grow professionally while contributing to challenging and innovative tech projects.
