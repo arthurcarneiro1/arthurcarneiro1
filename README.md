@@ -14,7 +14,6 @@
 <br>
 I'm a Java developer with a focus on Spring and SQL, with one year of hands-on experience building efficient solutions and solving complex problems. Over time, I've been sharpening my back-end development skills, system architecture knowledge, and best coding practices, always paying attention to code quality and application performance. I'm passionate about continuous learning and always looking for opportunities to grow professionally while contributing to challenging and innovative tech projects.
 <br>
-    <br>
     🇧🇷
     <br>
  Sou desenvolvedor Java com foco em Spring e SQL, com um ano de experiência prática na criação de soluções eficientes e na resolução de problemas complexos. Ao longo da minha trajetória, venho aprimorando habilidades em desenvolvimento back-end, arquitetura de sistemas e boas práticas de programação, sempre com atenção à qualidade do código e à performance das aplicações. Tenho grande interesse em aprendizado contínuo e estou sempre buscando novas oportunidades para crescer profissionalmente e contribuir com projetos de tecnologia desafiadores e inovadores.
