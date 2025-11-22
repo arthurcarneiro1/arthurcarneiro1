@@ -12,12 +12,12 @@
 <br>
 🇺🇸
 <br>
-At 12 years old, creating my own Pokémon hack-ROMs set me on the path to where I am today — a Java developer working with Spring, SQL, and AI. I’ve got a year of hands-on experience solving problems and building efficient solutions, and I'm always looking to learn and grow in the tech world.
+I'm a Java developer with a focus on Spring and SQL, with one year of hands-on experience building efficient solutions and solving complex problems. Over time, I've been sharpening my back-end development skills, system architecture knowledge, and best coding practices, always paying attention to code quality and application performance. I'm passionate about continuous learning and always looking for opportunities to grow professionally while contributing to challenging and innovative tech projects.
 <br>
     <br>
     🇧🇷
     <br>
-    Aos 12 anos, criar minhas próprias hack-ROMs de Pokémon me levou ao ponto onde estou hoje como desenvolvedor Java com foco em Spring, SQL e Inteligência Artificial, com um ano de experiência prática em resolução de problemas e construção de soluções eficientes. Sempre buscando aprendizado e crescimento na área de tecnologia.
+ Sou desenvolvedor Java com foco em Spring e SQL, com um ano de experiência prática na criação de soluções eficientes e na resolução de problemas complexos. Ao longo da minha trajetória, venho aprimorando habilidades em desenvolvimento back-end, arquitetura de sistemas e boas práticas de programação, sempre com atenção à qualidade do código e à performance das aplicações. Tenho grande interesse em aprendizado contínuo e estou sempre buscando novas oportunidades para crescer profissionalmente e contribuir com projetos de tecnologia desafiadores e inovadores.
     <br>
 
 <br>
